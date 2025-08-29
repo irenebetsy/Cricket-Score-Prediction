@@ -2,9 +2,10 @@
 
 ## 📜 License
 
-This project is licensed under the **Apache License 2.0**. See the [LICENSE](./LICENSE) file for more details.
+This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for more details.
 
-![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ---
 
