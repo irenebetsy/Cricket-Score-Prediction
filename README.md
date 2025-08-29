@@ -1,5 +1,14 @@
 # 🏏 IPL Data Insights with PySpark ✨
 
+## 📜 License
+
+This project is licensed under the **Apache License 2.0**. See the [LICENSE](./LICENSE) file for more details.
+
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+
+---
+
+
 Explore the world of **Indian Premier League (IPL)** through **data analysis and visualization** using **PySpark**! 🚀  
 Discover patterns, trends, and insights from IPL matches, teams, and players over the years.  
 
@@ -109,3 +118,9 @@ jupyter notebook notebooks/Player_Analysis.ipynb
 - Include player performance dashboards with interactive visuals 📊
 - Integrate live IPL match data for real-time analysis ⚡
 - Advanced network analysis to study partnerships and team synergy 🕸️
+
+---
+
+## 🧑‍💻 Author
+
+Developed by: Irene Betsy D
